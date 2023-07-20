@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["cel_to_fa",""],["fa_to_cel",""],["main",""]]};
